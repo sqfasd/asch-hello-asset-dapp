@@ -1,0 +1,44 @@
+{
+  "delegate": "8065a105c785a08757727fded3a06f8f312e73ad40f1f3502e0232ea42e67efd",
+  "height": 1,
+  "pointId": null,
+  "pointHeight": null,
+  "transactions": [
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "timestamp": 0,
+      "recipientId": null,
+      "senderId": "14762548536863074694",
+      "senderPublicKey": "8065a105c785a08757727fded3a06f8f312e73ad40f1f3502e0232ea42e67efd",
+      "asset": {
+        "delegates": {
+          "list": [
+            "+8065a105c785a08757727fded3a06f8f312e73ad40f1f3502e0232ea42e67efd"
+          ]
+        }
+      },
+      "signature": "22f61b4fd17ef6fe27c5f43d904bfec3c1a21434efe37c0c6018da6ce2ae9bce09ae14ac9d2a9457e84b8da36881e8851fa7436dac09d668e9f9685e8ec0f90e",
+      "id": "15690549463504651285"
+    },
+    {
+      "type": 0,
+      "amount": 100000000000000,
+      "token": "CNY",
+      "fee": 0,
+      "timestamp": 0,
+      "recipientId": "14762548536863074694",
+      "senderId": "5111581269028004160",
+      "senderPublicKey": "8ef2dd2b60875230f0ea787ae67a26210ba498e922cdb83c7d3320a68442fa05",
+      "signature": "45716826408640df1a5c67b694cebd835956a19585a81d6c28524a2aac6f217a682a2e4007abe3623b4355dc9db5db01a9f400f2744872906e6a667f1a73c00b",
+      "id": "7148045603693082618"
+    }
+  ],
+  "timestamp": 0,
+  "payloadLength": 302,
+  "payloadHash": "fc4fdeb11c39d9e94149c1ed4166243de4b600b619c259cd35b1be6ccfe15d67",
+  "count": 2,
+  "signature": "2d8b07917d4c9af8da82aa90a9398776eaa13ede52f3824dfa0f0054a532ddb6472b63bae8d026cf68af60de66720b392b4b0f48fe4658dd32457171fdbf910b",
+  "id": "7256116366635682331"
+}
